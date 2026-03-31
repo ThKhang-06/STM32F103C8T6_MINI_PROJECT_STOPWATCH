@@ -1,0 +1,5 @@
+gc9a01.c:21:6:LCD_WriteCommand	16	static
+gc9a01.c:29:6:LCD_WriteData	16	static
+gc9a01.c:38:6:GC9A01_Init	16	static
+gc9a01.c:57:6:LCD_SetAddr	32	static
+gc9a01.c:78:6:LCD_FillColor	512	static
